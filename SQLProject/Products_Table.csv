@@ -1,0 +1,21 @@
+product_id,product_name,category,price,stock_quantity,is_available,added_on
+101,Wireless Mouse,Electronics,1611.53,79,FALSE,29-04-2025
+102,Bluetooth Speaker,Electronics,135.14,23,TRUE,04-06-2025
+103,Laptop Stand,Accessories,1020.92,161,FALSE,09-07-2025
+104,USB-C Hub,Accessories,408.39,164,FALSE,12-05-2025
+105,Notebook,Stationery,1987.74,116,TRUE,01-07-2025
+106,Pen Set,Stationery,1048.1,150,TRUE,29-06-2025
+107,Coffee Mug,Home & Kitchen,1063.53,76,FALSE,15-04-2025
+108,LED Desk Lamp,Home & Kitchen,239.1,93,FALSE,23-05-2025
+109,Yoga Mat,Fitness,1514.86,162,TRUE,05-05-2025
+110,Water Bottle,Fitness,420.99,191,TRUE,09-05-2025
+111,Smartphone,Electronics,361.2,200,FALSE,18-04-2025
+112,Headphones,Electronics,154.84,178,TRUE,18-05-2025
+113,Gaming Keyboard,Accessories,103.24,100,FALSE,19-04-2025
+114,Monitor,Electronics,305.2,123,FALSE,20-05-2025
+115,HDMI Cable,Accessories,552.97,105,TRUE,17-06-2025
+116,Power Bank,Electronics,831.88,13,FALSE,01-07-2025
+117,Backpack,Accessories,1517.11,64,TRUE,08-05-2025
+118,Webcam,Electronics,1428.3,76,FALSE,11-06-2025
+119,Desk Organizer,Home & Kitchen,404.69,136,FALSE,14-06-2025
+120,Fitness Band,Fitness,1451.69,171,FALSE,06-05-2025
